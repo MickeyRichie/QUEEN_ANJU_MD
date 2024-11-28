@@ -1,9 +1,9 @@
-module.exports = {
+module.exports = {ANJU-MD=WNFkFAII#f3Ay1f7uIV4fZWTvit04v3_l1ZGqCOa-A3SkXAHfT28
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "2349066862063",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
